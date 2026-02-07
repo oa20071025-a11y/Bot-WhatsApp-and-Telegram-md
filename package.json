@@ -1,0 +1,14 @@
+{
+  "name": "elmasry-md",
+  "version": "1.0.0",
+  "main": "telegram.js",
+  "scripts": {
+    "start": "node telegram.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.2",
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.19.0",
+    "fs-extra": "^11.2.0"
+  }
+}
